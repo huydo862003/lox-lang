@@ -1,6 +1,7 @@
 # Lox Programming Language
 
 ![Status](https://img.shields.io/badge/status-on--hold-orange)
+<a href="https://github.com/huydo862003/Fck-AI-Slop#plan"><img src="https://img.shields.io/badge/human%20slop-90EE90"></a>
 
 Implementations of the Lox programming language from [Crafting Interpreters](https://craftinginterpreters.com/) by Robert Nystrom, with modifications to the grammar and semantics.
 
